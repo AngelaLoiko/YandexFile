@@ -1,7 +1,7 @@
 from pprint import pprint
 import requests
 
-TOKEN = 'AQAAAAAvIZ_GAADLW_Vk2SWxFU9ItGqmX6ehB4U'
+TOKEN = ''
 file_path = ''
 disk_file_path = 'test/netology/test.txt'
 filename = 'test.txt'
